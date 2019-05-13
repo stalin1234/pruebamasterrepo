@@ -30,7 +30,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Prueba
+                    Prueba BRANCH mm
                 </a>
             </div>
 
